@@ -1,7 +1,7 @@
 ### Ola 👋
 
 - 🔭 Eu trabalho com Salesforce B2C Commerce Cloud
-- 🌱 Eu hoje estudo Golang
+- 🌱 Eu hoje estudo Clojure
 - 📫 Meu email: marcos.p.mcruz@outlook.com
 
 
