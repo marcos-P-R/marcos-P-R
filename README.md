@@ -9,8 +9,8 @@
 </div><br>
 
 <div style="display: inline_block">
-  <img align="center" height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-P-R&langs_count=8&hide=html,TSQL,CSS&theme=radical&layout=compact" />
-  <img  align="center"height="280" width="450" src="https://github-readme-stats.vercel.app/api?username=marcos-P-R&show_icons=true&theme=radical"/>
+  <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-P-R&langs_count=8&hide=html,TSQL,CSS&theme=radical&layout=compact" />
+  <img  align="center"height="280" width="400" src="https://github-readme-stats.vercel.app/api?username=marcos-P-R&show_icons=true&theme=radical"/>
 </div>
 
 
