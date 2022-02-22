@@ -17,4 +17,4 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-P-R&langs_count=8&hide=html,TSQL,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-P-R&langs_count=8&hide=html,TSQL,CSS&theme=radical)
