@@ -9,6 +9,7 @@
 ### Estou aprendendo 
 <div style="display: inline_block">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" height="20"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="20" height="20"/>
 </div><br>
 
 <div style="display: inline_block">
