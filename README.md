@@ -1,5 +1,5 @@
 # Ola 👋
-## 🔭 Desenvolvedor Back End, trabalhando com solução salesforce B2C commerce Cloud
+## 🔭 Desenvolvedor Back End
 
 
 <div>
