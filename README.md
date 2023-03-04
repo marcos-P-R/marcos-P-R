@@ -10,7 +10,9 @@ Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de
 
 🧠 Estou aprendendo Nest.js, Golang e Modelage de Dados
 
-📫 Como entrar em contato comigo [![Gmail](https://img.shields.io/badge/Gmail-e74c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.p.mcruz@gmail.com)
+📫 Como entrar em contato comigo 
+
+[![Gmail](https://img.shields.io/badge/Gmail-e74c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.p.mcruz@gmail.com)
 
 
 
