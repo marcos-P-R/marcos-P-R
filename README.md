@@ -1,35 +1,37 @@
-# Ola 👋
-## 🔭 Desenvolvedor Back End
+
+# Olá, eu sou o Marcos Paulo! 👋
+
+
+## 🚀 Sobre mim
+Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de explorar e aprender novas tecnologias que vão desde novas linguagens ou outras ferramentas que complementa minha caixa de ferramentas.
+
+
+👩‍💻 Trabalho atualmente na Compass UOL
+
+🧠 Estou aprendendo Nest.js, Golang e Modelage de Dados
+
+📫 Como entrar em contato comigo [![Gmail](https://img.shields.io/badge/Gmail-e74c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.p.mcruz@gmail.com)
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-paulo-da-rosa-ribeiro-desenvolvedor/)
+[![Instagram](https://img.shields.io/badge/instagram-e74c3c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mpaulo_r/)
+
+
+## 🛠 Habilidades
+HTML, CSS, Git, Docker, Golang, Python
+
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,git,docker,go,py)](https://skills.thijs.gg)
+
+## Stack utilizada
+
+**Back-end:** Node, Express, JavaScript, TypeScript
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express)](https://skills.thijs.gg)
 
 
 <div>
-  <img align="center" height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-P-R&langs_count=8&hide=html,TSQL,CSS&theme=radical&layout=compact" /><br>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-P-R&langs_count=8&hide=html,TSQL,CSS&theme=radical&layout=compact" />
   <img height='180em' width="400" src='https://github-readme-streak-stats.herokuapp.com?user=marcos-P-R&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
-
-### Estou me desenvolvendo e aperfeiçoando 
-<div style="display: inline_block">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30" height="30"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg" width="30" height="30"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="30" height="30"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30" height="30"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30" height="30"/>
-</div><br>
-
-<div style="display: inline_block">
- 
-  ### Ferramentas e Tecnologias que uso frequentemente
-  
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="50" height="50"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-</div>
-<br>
-<div>
-    <a href="https://www.linkedin.com/in/marcos-paulo-da-rosa-ribeiro-desenvolvedor/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
