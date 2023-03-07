@@ -22,15 +22,15 @@ Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de
 
 
 ## 🛠 Habilidades
-HTML, CSS, Git, Docker, Golang, Python
+HTML, CSS, Git, Docker
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,git,docker,go,py)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,git,docker)](https://skills.thijs.gg)
 
 ## Stack utilizada
 
 **Back-end:** Node, Express, JavaScript, TypeScript
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,jest)](https://skills.thijs.gg)
 
 
 <div>
