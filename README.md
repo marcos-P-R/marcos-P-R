@@ -8,7 +8,7 @@ Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de
 
 👩‍💻 Trabalho atualmente na Compass UOL
 
-🧠 Estou aprendendo Nest.js, Golang e Modelage de Dados
+🧠 Estou aprendendo Nest.js, C# .Net
 
 📫 Como entrar em contato comigo 
 
@@ -28,7 +28,7 @@ HTML, CSS, Git, Docker
 
 ## Stack utilizada
 
-**Back-end:** Node, Express, JavaScript, TypeScript
+**Back-end:** JavaScript, TypeScript, Node, Express, Jest
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,jest)](https://skills.thijs.gg)
 
