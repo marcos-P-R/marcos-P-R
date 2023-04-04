@@ -8,7 +8,7 @@ Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de
 
 👩‍💻 Trabalho atualmente na Compass UOL
 
-🧠 Estou aprendendo Nest.js, C# .Net
+🧠 Estou aprendendo Nest.js,clojure e golang
 
 📫 Como entrar em contato comigo 
 
@@ -34,6 +34,5 @@ HTML, CSS, Git, Docker
 
 
 <div>
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-P-R&langs_count=8&hide=html,TSQL,CSS&theme=radical&layout=compact" />
   <img height='180em' width="400" src='https://github-readme-streak-stats.herokuapp.com?user=marcos-P-R&theme=react&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
 </div>
