@@ -8,8 +8,6 @@ Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de
 
 👩‍💻 Trabalho atualmente na Compass UOL
 
-🧠 Estou aprendendo Java
-
 📫 Como entrar em contato comigo 
 
 [![Gmail](https://img.shields.io/badge/Gmail-e74c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.p.mcruz@gmail.com)
@@ -24,13 +22,13 @@ Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de
 ## 🛠 Habilidades
 Java, Spring, Golang, HTML, CSS, Git, Docker
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,go,html,css,git,docker)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,go,html,css,git,docker,k8s)](https://skills.thijs.gg)
 
 ## Stack utilizada
 
-**Back-end:** JavaScript, TypeScript, Node, Express, Jest
+**Back-end:** JavaScript, TypeScript, Node, Nest.js, Express, Jest
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,jest)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,nestjs,express,jest)](https://skills.thijs.gg)
 
 
 <div>
