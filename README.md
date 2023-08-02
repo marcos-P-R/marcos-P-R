@@ -20,9 +20,9 @@ Ola Sou Desenvolvedor back-end e atuo com JS e TS no Node.js, mas gosto muito de
 
 
 ## 🛠 Habilidades
-Java, Spring, Golang, HTML, CSS, Git, Docker
+Java, Spring, Golang, HTML, CSS, Git, Docker, kubernets, AWS
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,spring,go,html,css,git,docker,k8s)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,spring,go,html,css,git,docker,k8s,aws)](https://skills.thijs.gg)
 
 ## Stack utilizada
 
