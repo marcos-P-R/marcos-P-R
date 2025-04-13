@@ -5,9 +5,6 @@
 ## 🚀 Sobre mim
 Analista e desenvolvedor de sistemas, sou grande nerd de computação, gosto de aprender mais sobre linguagens e paradigmas da programação, tenho forte interesse em desenvolvimento para sistemas, mas no momento vivendo a loucura da programação na web
 
-
-👩‍💻 Trabalho atualmente na Compass UOL
-
 📫 Como entrar em contato comigo 
 
 [![Gmail](https://img.shields.io/badge/Gmail-e74c3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.p.mcruz@gmail.com)
